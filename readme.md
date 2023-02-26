@@ -1,15 +1,13 @@
-NekoCart
+MewCart
 ========
 
 # Overview
 
 Open-source Gameboy Flash Cartridge using an Xilinx CPLD as MBC.
 
-Visit ncgb.zephray.me for more information.
-
 # Hardware
 
-* Xilinx XC2C32A CPLD
+* Xilinx XC2C128A VQ100 CPLD
 * 8MiB NOR (MX29LV640)
 * 128KiB SRAM (IS62LV1024)
 
@@ -25,6 +23,4 @@ Game Boy® is a registered trademark by Nintendo. Nintendo® is a registered tra
 
 # Contact me
 
-Webstie: http://zephray.me
-
-Email: zephray@outlook.com
+Email: takuohm83@gmail.com
